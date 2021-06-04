@@ -1,12 +1,15 @@
 # simple-springboot-with-inmemory-h2-database
-Its a simple spring boot project with few employee management functionality
-> Add Employee
-> Get Employee details by department
-> Get all Employee
-Setup with h2 in-memory database
-Endpoints:
-:5050/home                    [Homepage]
-:5050/demo                    [GET]
-:5050/getAll                  [GET]
-:5050/getEmp/department_name  [GET]
-:5050/saveEmp                 [POST]
+<pre>
+Its a simple spring boot project with few employee management functionality<br/>
+Setup with h2 in-memory database<br/>
+> Add Employee<br/>
+> Get Employee details by department<br/>
+> Get all Employee<br/>
+
+Endpoints:<br/>
+> :5050/home                    [Homepage]<br/>
+> :5050/demo                    [GET]<br/>
+> :5050/getAll                  [GET]<br/>
+> :5050/getEmp/department_name  [GET]<br/>
+> :5050/saveEmp                 [POST]<br/>
+</pre>
